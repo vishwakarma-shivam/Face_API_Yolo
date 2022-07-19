@@ -1,0 +1,11 @@
+numpy
+tensorflow
+opencv-python
+opencv-contrib-python
+keras
+matplotlib
+pillow
+CMake
+dlib
+uvicorn
+fastapi
