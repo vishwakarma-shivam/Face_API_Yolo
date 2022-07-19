@@ -2,7 +2,7 @@
 
 ### Step 1: Get all the requirements
 
-Run the following commands to install all the requirements
+Run the following command to install all the requirements
 
     pip install -r requirements.txt
 
