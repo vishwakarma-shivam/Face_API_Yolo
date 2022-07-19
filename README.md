@@ -12,7 +12,7 @@ Run the following commands to install all the requirements
 
 - Option 1: From bash script
 
-    Run the `get_models.sh` script in the _**model-weights**_ folder
+    Run the `get_models.sh` script in the _**main**_ folder
 
 
 - Option 2: Download files from GDrive, extract and save them to _**model-weights**_ folder.
